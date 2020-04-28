@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "product-cart.swagger.application.title",
+    "type": "java.lang.String",
+    "description": "A description for 'product-cart.swagger.application.title'"
+  },
+  {
+    "name": "app.swagger.application.version",
+    "type": "java.lang.String",
+    "description": "A description for 'app.swagger.application.version'"
+  },
+  {
+    "name": "app.swagger.application.title",
+    "type": "java.lang.String",
+    "description": "A description for 'app.swagger.application.title'"
+  }
+]}
